@@ -1,3 +1,3 @@
 # LongPressGesture
 
-![Optional Text](../master/demo.gif)
+![Optional Text](../master/LongPressGesture.gif)
